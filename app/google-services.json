@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331538336258",
+    "firebase_url": "https://social-shopia.firebaseio.com",
+    "project_id": "social-shopia",
+    "storage_bucket": "social-shopia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331538336258:android:33f31c44094f839674351b",
+        "android_client_info": {
+          "package_name": "com.socialcodia.socialshopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331538336258-d6sen0gegevitlje9d0a01g6kqkjma89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialcodia.socialshopia",
+            "certificate_hash": "53fcc21f4c03846b20a13e8f8dc29ec3ffbdaf64"
+          }
+        },
+        {
+          "client_id": "331538336258-eqeggo1uqku2fho1iome5ps1sbtu0fhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGzRfBW6YMx89RiZRUt-zv1KqOcscYgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331538336258-eqeggo1uqku2fho1iome5ps1sbtu0fhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
